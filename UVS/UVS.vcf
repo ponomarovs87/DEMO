@@ -1,0 +1,11 @@
+BEGIN:VCARD
+VERSION:3.0
+FN:"Universe_Vocal_Studio"
+ORG:"Universe Vocal Studio"
+TITLE:Татьяна
+TEL;TYPE=WORK,VOICE:+380662884113
+ADR;TYPE=WORK:;;просп. Ювілейний, 54А;Харків;;61000;Україна
+NOTE:Працюємо : з Понеділка до П'ятниці 01:00 - 23:59
+URL:https://example.com
+URL:https://www.instagram.com/universevocalstudio/
+END:VCARD
