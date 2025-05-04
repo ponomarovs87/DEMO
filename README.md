@@ -11,7 +11,7 @@ Copying, borrowing, distribution, publication, or any commercial/non-commercial 
 
 ## 📄 License
 
-[View full license → LICENSE](./LICENSE)
+[View full license → LICENSE](./LICENSE.md)
 
 ## ⚖️ Legal References
 
