@@ -36,7 +36,7 @@ Copying, borrowing, distribution, publication, or any commercial/non-commercial 
 
 ## 📄 Лицензия
 
-[Ознакомиться с полной лицензией → LICENSE](./LICENSE)
+[Ознакомиться с полной лицензией → LICENSE](./LICENSE.md)
 
 ## ⚖️ Законодательные ссылки
 
